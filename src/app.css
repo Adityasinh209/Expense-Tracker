@@ -1,0 +1,59 @@
+.page {
+    background-color: #111827;
+}
+
+.header {
+    padding: 16;
+    background-color: #1F2937;
+}
+
+.header-text {
+    color: #FFFFFF;
+    font-size: 24;
+    font-weight: bold;
+}
+
+.card {
+    margin: 8;
+    padding: 16;
+    border-radius: 8;
+    background-color: #374151;
+}
+
+.balance-text {
+    color: #FFFFFF;
+    font-size: 20;
+    font-weight: bold;
+}
+
+.amount-text {
+    color: #10B981;
+    font-size: 24;
+    font-weight: bold;
+}
+
+.amount-text.expense {
+    color: #EF4444;
+}
+
+.label-text {
+    color: #9CA3AF;
+    font-size: 14;
+}
+
+.input {
+    color: #FFFFFF;
+    background-color: #4B5563;
+    padding: 12;
+    border-radius: 4;
+    margin: 4 0;
+}
+
+.button {
+    background-color: #3B82F6;
+    color: #FFFFFF;
+    padding: 12;
+    border-radius: 4;
+    text-align: center;
+    margin: 8 0;
+}
